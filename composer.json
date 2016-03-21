@@ -1,5 +1,5 @@
 {
-	"name" : "monext/payline-tools-client",
+	"name" : "monext/payline-tools-sdk",
 	"description" : "Payline Tools library for PHP",
 	"keywords" : [
 		"Monext",
